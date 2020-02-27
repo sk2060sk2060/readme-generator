@@ -18,11 +18,6 @@ The user be prompted with some additional questions listed below.
 
 Based on the answers to the above questions, a README.md file will be generated.
 
-**Location of generated README.md file:**
-`/Develop/generated-readme/README.md`
-
-**Note:** In `Develop/images` folder there is a screenshot `usage-image.png` of my answers/response to all the above questions, based on which the README.md file in `/Develop/generated-readme` folder was generated
-
 ## User Story
 ```
 AS A developer
@@ -32,3 +27,14 @@ I WANT a README generator
 SO THAT I can easily put together a good README for a new project
 ```
 
+
+**Location of generated README.md file:**
+`/Develop/generated-readme/README.md`
+
+**Location of generated README.md pdf & video:**
+```
+/Develop/pdf-and-video/README.pdf
+/Develop/pdf-and-video/Generated README.mov
+```
+
+**Note:** In `Develop/images` folder there is a screenshot `usage-image.png` of my answers/response to all the above questions, based on which the README.md file in `/Develop/generated-readme` folder was generated
