@@ -32,5 +32,3 @@ I WANT a README generator
 SO THAT I can easily put together a good README for a new project
 ```
 
-## Video of Generated README.md file
-[!Genereated Readme Video](generated_readme.mov)
