@@ -1,5 +1,8 @@
 
 # Lyric Me
+
+![](https://badge.fury.io/js/npm.svg)
+
 Our concept for this project was to create an application that would allow users to search for songs and display the lyrics for that song.
  
 ## Table of Contents

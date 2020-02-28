@@ -1,6 +1,9 @@
 async function generateMarkdown(data) {
   return `
 # ${data.project_title}
+
+![](https://badge.fury.io/js/npm.svg)
+
 ${data.description}
  
 ## Table of Contents
